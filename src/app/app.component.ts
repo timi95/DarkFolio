@@ -12,8 +12,11 @@ export class AppComponent {
   'Breadfruit','Persimmon','Agbalumo',
   'Strawberry','Mango','Peach']
 
+  cv:string = 'assets/CV/workCV(Colour).pdf'
   profilePicture:string = "src/assets/peninhand"
-  
+  ptMan:string = 'assets/images/ptman.jpg'
+  safeTrans:string ='assets/images/safe-transaction.jpg'
+  eltee:string = 'assets/images/eltee.jpg'
 
   list = [];
   placeholders = [];
